@@ -1,0 +1,958 @@
+# Copyright (C) 2015 WP Backup
+# This file is distributed under the same license as the WP Backup package.
+msgid ""
+msgstr ""
+"Project-Id-Version: SociallyViral Theme by MyThemeShop\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/my-wp-backup\n"
+"POT-Creation-Date: 2016-04-20 01:59+0530\n"
+"PO-Revision-Date: 2016-04-20 01:59+0530\n"
+"Last-Translator: MyThemeShop <support-team@mythemeshop.com>\n"
+"Language-Team: MyThemeShop <support-team@mythemeshop.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.2\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:12
+msgid "404!"
+msgstr ""
+
+#: 404.php:13
+msgid "Oops! That page can't be found."
+msgstr ""
+
+#: 404.php:19 content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: 404.php:23 content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: 404.php:28
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:20 content-single.php:20 content.php:29
+msgid "Pages:"
+msgstr ""
+
+#: content.php:22
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: footer.php:16
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:16
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:18
+#, php-format
+msgid "%1$s Theme by %2$s."
+msgstr ""
+
+#: functions.php:59
+msgid "Top Navigation Menu"
+msgstr ""
+
+#: functions.php:60
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:87
+msgid ""
+"Like SociallyViral theme? You will <strong>LOVE SociallyViral Pro</strong>!"
+msgstr ""
+
+#: functions.php:87
+msgid "Click here for all the exciting features."
+msgstr ""
+
+#: functions.php:118
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:234
+msgid "Home"
+msgstr ""
+
+#: functions.php:325
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: header.php:91
+msgid "Menu"
+msgstr ""
+
+#: index.php:41
+msgid "Featured"
+msgstr ""
+
+#: search.php:12
+msgid "Search Results for:"
+msgstr ""
+
+#: searchform.php:3
+msgid "What are you looking for?"
+msgstr ""
+
+#: single.php:21
+msgid "You may also like"
+msgstr ""
+
+#: single.php:56
+msgid "About The Author"
+msgstr ""
+
+#: functions/widget-ad125.php:33
+msgid "A widget for 125 x 125 ad unit (max 6 ads)"
+msgstr ""
+
+#: functions/widget-ad125.php:44
+msgid "MTS 125x125 Ads"
+msgstr ""
+
+#: functions/widget-ad125.php:202 functions/widget-ad300.php:118
+#: functions/widget-recentposts.php:41
+msgid "Title:"
+msgstr ""
+
+#: functions/widget-ad125.php:208
+msgid "Ad 1 image url:"
+msgstr ""
+
+#: functions/widget-ad125.php:214
+msgid "Ad 1 link url:"
+msgstr ""
+
+#: functions/widget-ad125.php:220
+msgid "Ad 2 image url:"
+msgstr ""
+
+#: functions/widget-ad125.php:226
+msgid "Ad 2 link url:"
+msgstr ""
+
+#: functions/widget-ad125.php:232
+msgid "Ad 3 image url:"
+msgstr ""
+
+#: functions/widget-ad125.php:238
+msgid "Ad 3 link url:"
+msgstr ""
+
+#: functions/widget-ad125.php:244
+msgid "Ad 4 image url:"
+msgstr ""
+
+#: functions/widget-ad125.php:250
+msgid "Ad 4 link url:"
+msgstr ""
+
+#: functions/widget-ad125.php:256
+msgid "Ad 5 image url:"
+msgstr ""
+
+#: functions/widget-ad125.php:262
+msgid "Ad 5 link url:"
+msgstr ""
+
+#: functions/widget-ad125.php:268
+msgid "Ad 6 image url:"
+msgstr ""
+
+#: functions/widget-ad125.php:274
+msgid "Ad 6 link url:"
+msgstr ""
+
+#: functions/widget-ad125.php:280
+msgid "Randomize ads order?"
+msgstr ""
+
+#: functions/widget-ad300.php:33
+msgid "A widget for 300 x 250 ad (Single banner)"
+msgstr ""
+
+#: functions/widget-ad300.php:44
+msgid "MTS 300x250 Ad"
+msgstr ""
+
+#: functions/widget-ad300.php:124
+msgid "Ad image url:"
+msgstr ""
+
+#: functions/widget-ad300.php:130
+msgid "Ad link url:"
+msgstr ""
+
+#: functions/widget-recentposts.php:14
+msgid "MTS Recent Posts"
+msgstr ""
+
+#: functions/widget-recentposts.php:15
+msgid "Display the most recent posts from all categories"
+msgstr ""
+
+#: functions/widget-recentposts.php:30
+msgid "Recent Posts"
+msgstr ""
+
+#: functions/widget-recentposts.php:46
+msgid "Number of Posts to show"
+msgstr ""
+
+#: functions/widget-recentposts.php:51
+msgid "Title Length:"
+msgstr ""
+
+#: functions/widget-recentposts.php:59
+msgid "Show Thumbnails"
+msgstr ""
+
+#: functions/widget-recentposts.php:64
+msgid "Posts layout:"
+msgstr ""
+
+#: functions/widget-recentposts.php:66
+msgid "Horizontal"
+msgstr ""
+
+#: functions/widget-recentposts.php:67
+msgid "Vertical"
+msgstr ""
+
+#: functions/widget-recentposts.php:74
+msgid "Show post date"
+msgstr ""
+
+#: functions/widget-recentposts.php:81
+msgid "Show number of comments"
+msgstr ""
+
+#: functions/widget-recentposts.php:88
+msgid "Show excerpt"
+msgstr ""
+
+#: functions/widget-recentposts.php:93
+msgid "Excerpt Length:"
+msgstr ""
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:30
+msgid "Enable Search Box"
+msgstr ""
+
+#: inc/customizer.php:44
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer.php:57
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer.php:70
+msgid "Google Plus"
+msgstr ""
+
+#: inc/customizer.php:83
+msgid "YouTube"
+msgstr ""
+
+#: inc/customizer.php:100
+msgid "Pagination Type"
+msgstr ""
+
+#: inc/customizer.php:105
+msgid "Next/Previous"
+msgstr ""
+
+#: inc/customizer.php:106
+msgid "Numbered"
+msgstr ""
+
+#: inc/extras.php:52
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/plugin-activation.php:333 inc/plugin-activation.php:3842
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/plugin-activation.php:334 inc/plugin-activation.php:3843
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/plugin-activation.php:335 inc/plugin-activation.php:3844
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/plugin-activation.php:336 inc/plugin-activation.php:3845
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/plugin-activation.php:338
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:343 inc/plugin-activation.php:3847
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:368
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:373 inc/plugin-activation.php:3850
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:383 inc/plugin-activation.php:3854
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:393 inc/plugin-activation.php:3855
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:397 inc/plugin-activation.php:3856
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/plugin-activation.php:399 inc/plugin-activation.php:3103
+#: inc/plugin-activation.php:3857
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/plugin-activation.php:400 inc/plugin-activation.php:2906
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/plugin-activation.php:524
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/plugin-activation.php:525
+msgid "Update Required"
+msgstr ""
+
+#: inc/plugin-activation.php:639
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/plugin-activation.php:833 inc/plugin-activation.php:3512
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/plugin-activation.php:940
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/plugin-activation.php:940 inc/plugin-activation.php:943
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/plugin-activation.php:943
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/plugin-activation.php:1121 inc/plugin-activation.php:2902
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/plugin-activation.php:1282 inc/plugin-activation.php:3876
+msgid "MyThemeShop"
+msgstr ""
+
+#: inc/plugin-activation.php:1308
+msgid "Available Separately"
+msgstr ""
+
+#: inc/plugin-activation.php:1923
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/plugin-activation.php:2208
+msgid "Required"
+msgstr ""
+
+#: inc/plugin-activation.php:2211 inc/plugin-activation.php:4008
+msgid "Recommended"
+msgstr ""
+
+#: inc/plugin-activation.php:2227
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/plugin-activation.php:2230
+msgid "External Source"
+msgstr ""
+
+#: inc/plugin-activation.php:2233
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/plugin-activation.php:2250 inc/plugin-activation.php:2426
+#: inc/plugin-activation.php:4147
+msgid "Not Installed"
+msgstr ""
+
+#: inc/plugin-activation.php:2254
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/plugin-activation.php:2256 inc/plugin-activation.php:4094
+msgid "Active"
+msgstr ""
+
+#: inc/plugin-activation.php:2262
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/plugin-activation.php:2265
+msgid "Requires Update"
+msgstr ""
+
+#: inc/plugin-activation.php:2268
+msgid "Update recommended"
+msgstr ""
+
+#: inc/plugin-activation.php:2276
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/plugin-activation.php:2321
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:2324
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:2327
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:2330
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activation.php:2427
+#, php-format
+msgid "Version: %s"
+msgstr ""
+
+#: inc/plugin-activation.php:2428
+#, php-format
+msgid "Source: %s"
+msgstr ""
+
+#: inc/plugin-activation.php:2431
+msgid "Visit plugin site"
+msgstr ""
+
+#: inc/plugin-activation.php:2449
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/plugin-activation.php:2457
+msgid "Installed version:"
+msgstr ""
+
+#: inc/plugin-activation.php:2465
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/plugin-activation.php:2477
+msgid "Available version:"
+msgstr ""
+
+#: inc/plugin-activation.php:2500
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: inc/plugin-activation.php:2514
+msgid "Plugin"
+msgstr ""
+
+#: inc/plugin-activation.php:2515
+msgid "Description"
+msgstr ""
+
+#: inc/plugin-activation.php:2563
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/plugin-activation.php:2567
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/plugin-activation.php:2572
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/plugin-activation.php:2644
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/plugin-activation.php:2677
+msgid "Install"
+msgstr ""
+
+#: inc/plugin-activation.php:2683
+msgid "Update"
+msgstr ""
+
+#: inc/plugin-activation.php:2686
+msgid "Activate"
+msgstr ""
+
+#: inc/plugin-activation.php:2717
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/plugin-activation.php:2719
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/plugin-activation.php:2755
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/plugin-activation.php:2757
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/plugin-activation.php:2862
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/plugin-activation.php:2888
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/plugin-activation.php:3102
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/plugin-activation.php:3436
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugin-activation.php:3438
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/plugin-activation.php:3439
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/plugin-activation.php:3443
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/plugin-activation.php:3444
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/plugin-activation.php:3444 inc/plugin-activation.php:3450
+msgid "Show Details"
+msgstr ""
+
+#: inc/plugin-activation.php:3444 inc/plugin-activation.php:3450
+msgid "Hide Details"
+msgstr ""
+
+#: inc/plugin-activation.php:3445
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/plugin-activation.php:3446
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugin-activation.php:3449
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/plugin-activation.php:3450
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/plugin-activation.php:3451
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/plugin-activation.php:3452
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugin-activation.php:3729
+msgid ""
+"Create reviews! Choose from Stars, Percentages, Circles or Points for review "
+"scores. Supports Retina Display, WPMU & Unlimited Color Schemes."
+msgstr ""
+
+#: inc/plugin-activation.php:3740
+msgid ""
+"These days, having an email subscriber list is key to running a successful "
+"blog, so we created WP Subscribe Pro. Boost your conversions of traffic to "
+"subscribers, and generate more residual traffic and earnings. WP Subscribe "
+"Pro supports Feedburner, MailChimp and Aweber and is a must-have plugin for "
+"any blog."
+msgstr ""
+
+#: inc/plugin-activation.php:3751
+msgid ""
+"WP Notification Bar is a custom notification and alert bar plugin for "
+"WordPress which is perfect for marketing promotions, alerts, increasing "
+"click throughs to other pages and so much more."
+msgstr ""
+
+#: inc/plugin-activation.php:3760
+msgid ""
+"WP Mega Menu is an easy to use plugin for creating beautiful, customized "
+"menus for your site. With no setup required, tons of options to choose from, "
+"and the ability to show categories, subcategories and posts, WP MegaMenu is "
+"a must have plugin that also boosts SEO and user engagement."
+msgstr ""
+
+#: inc/plugin-activation.php:3780
+msgid ""
+"My WP Backup Pro is the best way to protect your data and website in the "
+"event of adverse server events, data corruption, hacking and more. With the "
+"option to schedule backups and have them delivered via email, Amazon S3, and "
+"lots of other features, you can sleep easy knowing you're protected."
+msgstr ""
+
+#: inc/plugin-activation.php:3858
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/plugin-activation.php:4003
+msgid "Essential"
+msgstr ""
+
+#: inc/plugin-activation.php:4035
+msgid "Recommended Plugins"
+msgstr ""
+
+#: inc/plugin-activation.php:4036
+#, php-format
+msgid "MyThemeShop and third party plugins recommended for %s theme!"
+msgstr ""
+
+#: inc/plugin-activation.php:4083
+msgid "Get Pro Version!"
+msgstr ""
+
+#: inc/plugin-activation.php:4096
+msgid "Manage Plugin"
+msgstr ""
+
+#: inc/plugin-activation.php:4101
+msgid "Inactive"
+msgstr ""
+
+#: inc/plugin-activation.php:4114
+msgid "Activate Plugin"
+msgstr ""
+
+#: inc/plugin-activation.php:4124
+msgid "Get it!"
+msgstr ""
+
+#: inc/plugin-activation.php:4141
+msgid "Install Plugin"
+msgstr ""
+
+#: inc/plugin-activation.php:4204
+msgid "Loading..."
+msgstr ""
+
+#: inc/template-tags.php:31
+msgid "Newer"
+msgstr ""
+
+#: inc/template-tags.php:32
+msgid "Older"
+msgstr ""
+
+#: inc/template-tags.php:36
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:39
+msgid "<i class=\"demo-icon icon-angle-double-left\"></i> Previous"
+msgstr ""
+
+#: inc/template-tags.php:43
+msgid "Next <i class=\"demo-icon icon-angle-double-right\"></i>"
+msgstr ""
+
+#: inc/template-tags.php:65
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: inc/template-tags.php:67
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: inc/template-tags.php:69
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: inc/template-tags.php:71
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: inc/template-tags.php:71
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:73
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: inc/template-tags.php:73
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:75
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: inc/template-tags.php:75
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:77
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:81
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/template-tags.php:83
+msgid "Archives"
+msgstr ""
